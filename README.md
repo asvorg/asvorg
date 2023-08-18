@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Aapo's GitHub stats](https://github-readme-stats.vercel.app/api?username=asvorg&show_icons=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asvorg&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asvorg&layout=compact&theme=gotham)
 
 <!--
 **asvorg/asvorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
