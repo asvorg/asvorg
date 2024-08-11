@@ -1,7 +1,7 @@
 
 
 ![Aapo's GitHub stats](https://github-readme-stats.vercel.app/api?username=asvorg&show_icons=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asvorg&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asvorg&theme=gotham&hide=html)
 ![](https://komarev.com/ghpvc/?username=asvorg&color=grey)
 
 <!--
