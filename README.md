@@ -1,16 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=asvorg&color=grey)
 
-<!--
-**asvorg/asvorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
+- [enum.sh](https://github.com/asvorg/enum.sh)
+- [shellbags3](https://github.com/asvorg/shellbags3)
+- [RSA](https://github.com/asvorg/tiralabra)
+- [CVE-2026-105030-poc](https://github.com/asvorg/CVE-2026-105030-poc)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asvorg&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asvorg&layout=compact)
