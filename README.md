@@ -15,4 +15,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asvorg&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asvorg&layout=compact)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=octocat&theme=radical)
