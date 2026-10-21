@@ -10,9 +10,10 @@
 
 ## PoCs
 
-- [CVE-2026-105030-poc](https://github.com/asvorg/CVE-2026-105030-poc)
-- [CVE-2026-108592-poc](https://github.com/asvorg/CVE-2026-108592-poc)
-- [CVE-2026-59970-poc](https://github.com/asvorg/CVE-2026-59970-poc)
+- [CVE-2026-105030-poc](https://github.com/asvorg/CVE-2026-105030-poc) Kener Hidden Monitor Information Disclosure
+- [CVE-2026-108592-poc](https://github.com/asvorg/CVE-2026-108592-poc) Environment Variable Exposure in mini-swe-agent version 1.10.0-2.4.6
+- [CVE-2026-59970-poc](https://github.com/asvorg/CVE-2026-59970-poc) Tandoor recipes SSRF
+- [CVE-2026-59774-poc](https://github.com/asvorg/CVE-2026-59774-poc) Gitea unauthetincated path traversal file read, leading to RCE, RCE not yet implemented
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=asvorg&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight)
 [![Top languages](https://github-stats-extended.vercel.app/api/top-langs?username=asvorg&layout=donut&hide_title=true&langs_count=13&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=asvorg&layout=donut&hide_title=true&langs_count=13&theme=tokyonight)
