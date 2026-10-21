@@ -5,7 +5,7 @@
 - [enum.sh](https://github.com/asvorg/enum.sh)
 - [RSA](https://github.com/asvorg/tiralabra)
 - [Password wallet](https://github.com/asvorg/ot-harjoitustyo)
-- [Slash Smuggler double encoding tool](https://github.com/asvorg/slashsmuggler)
+- [Slash Smuggler](https://github.com/asvorg/slashsmuggler) double encoding tool
 
 
 ## PoCs
