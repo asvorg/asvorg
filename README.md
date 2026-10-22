@@ -6,6 +6,7 @@
 - [RSA](https://github.com/asvorg/tiralabra)
 - [Password wallet](https://github.com/asvorg/ot-harjoitustyo)
 - [Slash Smuggler](https://github.com/asvorg/slashsmuggler) double encoding tool
+- [WAFSniff](https://github.com/asvorg/WAFSniff)
 
 
 ## PoCs
